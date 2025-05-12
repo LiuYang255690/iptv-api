@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-12 18:15:58,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+2025-05-13 06:15:47,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
@@ -7,22 +7,15 @@ CCTV-1,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
 CCTV-3,http://119.32.12.17:2901/udp/224.1.100.64:11111
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://119.32.12.17:2901/udp/224.1.100.104:11111
-CCTV-5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-6,http://119.32.12.17:2901/udp/224.1.100.84:11111
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 CCTV-7,http://119.32.12.17:2901/udp/224.1.100.27:11111
 CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
-CCTV-9,http://qjrhc.jydjd.top:2911/udp/224.1.100.29:11111
 CCTV-10,http://qjrhc.jydjd.top:2911/udp/224.1.100.76:11111
 CCTV-10,http://119.32.12.17:2901/udp/224.1.100.76:11111
-CCTV-11,http://112.46.105.20:8009/hls/11/index.m3u8
 CCTV-11,http://119.32.12.17:2901/udp/224.1.100.44:11111
 CCTV-12,http://119.32.12.17:2901/udp/224.1.100.78:11111
-CCTV-13,http://112.46.105.20:8009/hls/13/index.m3u8
-CCTV-14,http://112.46.105.20:8009/hls/14/index.m3u8
 CCTV-14,http://119.32.12.17:2901/udp/224.1.100.80:11111
 CCTV-14,http://qjrhc.jydjd.top:2911/udp/224.1.100.80:11111
-CCTV-15,http://112.46.105.20:8009/hls/15/index.m3u8
-CCTV-15,http://wouu.net:9977/udp/239.93.0.103:5140
 CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
